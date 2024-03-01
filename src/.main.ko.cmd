@@ -1,0 +1,1 @@
+cmd_/home/elouanl/Documents/annee2/tp01/rootkit/main.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/elouanl/Documents/annee2/tp01/rootkit/main.ko /home/elouanl/Documents/annee2/tp01/rootkit/main.o /home/elouanl/Documents/annee2/tp01/rootkit/main.mod.o;  true
