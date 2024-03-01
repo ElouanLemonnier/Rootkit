@@ -5,6 +5,7 @@ This is a rootkit made for a school project to learn about the Linux Kernel func
 This rootkit was implemented as a Linux Kernel Module and was tested on a Alpine Linux 3.16 Docker image.
 
 To use the Makefile provided you will need to have a folder containing the linux kernel source.
+
 ## Functionalities
 
 - Root access
